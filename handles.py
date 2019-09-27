@@ -1,4 +1,4 @@
 f = open('data.txt', 'r')
 lines = f.read()
 
-f.
+line = f.readline()
