@@ -1,3 +1,6 @@
-WorldHelloHelloHelloHello
-Hello
-helloworldwelcometofileIO
+hello
+world
+welcome
+to
+file
+IO
